@@ -1,0 +1,47 @@
+﻿@model DO_AN_CUOI.Models.Diemkhoihanh
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Diemkhoihanh</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Tendkh" class="control-label">Địa điểm khởi hành</label>
+                <input asp-for="Tendkh" class="form-control" />
+                <span asp-validation-for="Tendkh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dc" class="control-label">Địa chỉ</label>
+                <input asp-for="Dc" class="form-control" />
+                <span asp-validation-for="Dc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sdt" class="control-label">Số điện thoại trạm khởi hành</label>
+                <input asp-for="Sdt" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="AnhAiien">Ảnh đại diện</label>
+                <input type="file" asp-for="AnhAiien" class="form-control" />
+                <span asp-validation-for="AnhAiien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

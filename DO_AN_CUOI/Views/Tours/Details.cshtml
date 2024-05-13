@@ -1,0 +1,106 @@
+﻿@model DO_AN_CUOI.Models.Tour
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Tour</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            <p> Tên Tour </pTên>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tentour)
+        </dd>
+        <dt class="col-sm-2">
+            <p>Loại Tour</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaloaiNavigation.Tenloai)
+        </dd>
+
+        <dt class="col-sm-2">
+            <p>Hướng dãn viên</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ManvNavigation.Tennv)
+        </dd>
+        <dt class="col-sm-2">
+            <p>Điểm khởi hành</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MadkhNavigation.Tendkh)
+        </dd>
+
+
+        <dt class="col-sm-2">
+            <p>Phương Tiện di chuyển</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaptNavigation.Tenpt)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Ngaykh)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Ngaykh)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Ngaykt)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Ngaykt)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Songay)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Songay)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sodem)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sodem)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Soluongtoida)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Soluongtoida)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sochodadat)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sochodadat)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Gia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Dvt)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Dvt)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AnhAiien)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Model.AnhAiien" alt="Tour" style="width: 300px; height: auto;" />
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Matour">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

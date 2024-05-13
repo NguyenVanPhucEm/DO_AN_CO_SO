@@ -1,0 +1,36 @@
+﻿@model DO_AN_CUOI.Models.Khuyenmai
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Khuyenmai</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            <p> Giá trị Khuyến mãi</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Phantramkm)
+        </dd>
+        <dt class="col-sm-2">
+            <p>Tên Chương trình khuyến mãi</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tenkm)
+        </dd>
+        <dt class="col-sm-2">
+            <p>Điều kiện áp dụng</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Dk)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Makm">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,82 @@
+﻿@model IEnumerable<DO_AN_CUOI.Models.Phieudattour>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>Tên Khách hàng</p>
+            </th>
+            <th>
+                <p>Tên Tour</p>
+            </th>
+            <th>
+                <p>Tên nhân viên hướng dẫn</p>
+            </th>
+            <th>
+                <p>Số người đặt</p>
+            </th>
+            <th>
+                <p>Ngày đặt</p>
+            </th>
+            <th>
+                <p>Tổng tiền phải trả</p>
+            </th>
+            <th>
+                <p>Đơn vị tính</p>
+            </th>
+            <th>
+                <p>Mã Khuyến mãi</p>
+            </th>
+            
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MakhNavigation.Tenkh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MatourNavigation.Tentour)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ManvNavigation.Tennv)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Song)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaydat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tongtien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dvt)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.MakmNavigation.Makm)
+            </td>
+            
+            
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Mapdt">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Mapdt">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Mapdt">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

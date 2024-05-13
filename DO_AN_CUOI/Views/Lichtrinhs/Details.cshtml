@@ -1,0 +1,42 @@
+﻿@model DO_AN_CUOI.Models.Lichtrinh
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Lichtrinh</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            <p>Tên Tour</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MatourNavigation.Tentour)
+        </dd>
+        <dt class="col-sm-2">
+            <p>Điểm đến</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaddNavigation.Tendd)
+        </dd>
+        <dt class="col-sm-2">
+            <p>Khách sạn</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaksNavigation.Maks)
+        </dd>
+        <dt class="col-sm-2">
+            <p>Thông tin chi tiết lịch trình của Tour</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Thongtinchitiet)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Malt">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

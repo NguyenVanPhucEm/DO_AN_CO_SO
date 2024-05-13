@@ -1,0 +1,55 @@
+﻿@model IEnumerable<DO_AN_CUOI.Models.Lichtrinh>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>Tour</p>
+            </th>
+            <th>
+                <p> Điểm đến</p>
+            </th>
+            <th>
+               <p> Khách sạn </p>
+            </th>
+            <th>
+                <p>Thông tin chi tiết lịch trình Tour</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MatourNavigation.Tentour)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaddNavigation.Tendd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaksNavigation.Tenks)
+                </td>
+                
+            <td>
+                @Html.DisplayFor(modelItem => item.Thongtinchitiet)
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Malt">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Malt">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Malt">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,47 @@
+﻿@model DO_AN_CUOI.Models.Lichtrinh
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Lichtrinh</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            <p>Tên Tour</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MatourNavigation.Tentour)
+        </dd>
+        <dt class="col-sm-2">
+            <p>Điểm đến</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaddNavigation.Tendd)
+        </dd>
+        <dt class="col-sm-2">
+           <p>Khách sạn</p>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaksNavigation.Maks)
+        </dd>
+        <dt class = "col-sm-2">
+            <p>Thông tin chi tiết lịch trình của Tour</p>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Thongtinchitiet)
+        </dd>
+        
+        
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Malt" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

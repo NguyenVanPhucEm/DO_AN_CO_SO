@@ -1,0 +1,114 @@
+﻿@model IEnumerable<DO_AN_CUOI.Models.Tour>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p> Tour </p>
+            </th>
+            <th>
+                <p>Loại</p>
+            </th>
+
+            <th>
+                <p>Hướng dẫn viên</p>
+            </th>
+            <th>
+                <p>Điểm khởi hành</p>
+            </th>
+            <th>
+                <p>Phương tiện di chuyển</p>
+            </th>
+            <th>
+                <p>Ngày khởi hành</p>
+            </th>
+            <th>
+                <p>Ngày kết thúc</p>
+            </th>
+            <th>
+                <p>Số ngày</p>
+            </th>
+            <th>
+                <p>Số đêm</p>
+            </th>
+            <th>
+                <p>Số lượng tối đa</p>
+            </th>
+            <th>
+                <p>Số chỗ đã đặt</p>
+            </th>
+            <th>
+                <p>Giá</p>
+            </th>
+            <th>
+                <p>Đơn vị tính</p>
+            </th>
+            <th>
+                <p>Ảnh đại diện</p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tentour)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaloaiNavigation.Tenloai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ManvNavigation.Tennv)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MadkhNavigation.Tendkh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaptNavigation.Tenpt)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaykh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaykt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Songay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sodem)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Soluongtoida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sochodadat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dvt)
+            </td>
+            <td>
+                <img src="@item.AnhAiien" alt="Tour" style="width: 300px; height: auto;" />
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Matour">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Matour">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Matour">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

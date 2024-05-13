@@ -1,0 +1,659 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\diemkhoihanhs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\diemkhoihanhs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\tours\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\tours\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\controllers\\diemkhoihanhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\controllers\\diemkhoihanhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\tours\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\tours\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\tours\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\tours\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\tours\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\tours\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\controllers\\tourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\controllers\\tourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\tours\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\tours\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\controllers\\phuongtiendcscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\controllers\\phuongtiendcscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\loaitours\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\loaitours\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\controllers\\loaitourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\controllers\\loaitourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\loaitours\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\loaitours\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\loaitours\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\loaitours\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\loaitours\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\loaitours\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\loaitours\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\loaitours\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\areas\\admin\\views\\loaitours\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\areas\\admin\\views\\loaitours\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\loaitours\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\loaitours\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\loaitours\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\loaitours\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\loaitours\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\loaitours\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|c:\\users\\dell\\source\\repos\\do_an_cuoi\\do_an_cuoi\\views\\loaitours\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D313F23-424C-43FC-ABF8-F03A482CD5E8}|DO_AN_CUOI\\DO_AN_CUOI.csproj|solutionrelative:do_an_cuoi\\views\\loaitours\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiemkhoihanhsController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Controllers\\DiemkhoihanhsController.cs",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Controllers\\DiemkhoihanhsController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Controllers\\DiemkhoihanhsController.cs",
+              "RelativeToolTip": "DO_AN_CUOI\\Controllers\\DiemkhoihanhsController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA5wD0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:37:13.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Diemkhoihanhs\\Create.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Diemkhoihanhs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Diemkhoihanhs\\Create.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Diemkhoihanhs\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T06:37:01.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Tours\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Edit.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Tours\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T06:06:50.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Tours\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Delete.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Tours\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:58:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Details.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Tours\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Details.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Tours\\Details.cshtml",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:47:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Create.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Tours\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Create.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Tours\\Create.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:40:11.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Models\\Tour.cs",
+              "RelativeToolTip": "DO_AN_CUOI\\Models\\Tour.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwCMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:39:51.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToursController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Controllers\\ToursController.cs",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Controllers\\ToursController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Controllers\\ToursController.cs",
+              "RelativeToolTip": "DO_AN_CUOI\\Controllers\\ToursController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAIwJMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:37:36.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:14:26.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:14:28.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Index.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Tours\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Tours\\Index.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Tours\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:14:29.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Program.cs",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Program.cs",
+              "RelativeToolTip": "DO_AN_CUOI\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:01:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhuongtiendcsController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Controllers\\PhuongtiendcsController.cs",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Controllers\\PhuongtiendcsController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Controllers\\PhuongtiendcsController.cs",
+              "RelativeToolTip": "DO_AN_CUOI\\Controllers\\PhuongtiendcsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:49:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Create.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Loaitours\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Create.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Loaitours\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:37:30.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\appsettings.json",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\appsettings.json",
+              "RelativeToolTip": "DO_AN_CUOI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T13:15:57.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:13:22.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwC8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:08:47.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bundleconfig.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\bundleconfig.json",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\bundleconfig.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\bundleconfig.json",
+              "RelativeToolTip": "DO_AN_CUOI\\bundleconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T13:15:59.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:09:42.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DO_AN_CUOI\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-12T13:16:05.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:18:20.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:18:18.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoaitoursController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Controllers\\LoaitoursController.cs",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Controllers\\LoaitoursController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Controllers\\LoaitoursController.cs",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Controllers\\LoaitoursController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:59:52.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Delete.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T12:58:40.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Details.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Details.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T12:58:56.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Edit.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T12:59:16.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Index.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Index.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T12:59:29.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:08:33.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:09:25.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:09:24.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:09:34.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:09:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:17:42.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Create.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Create.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Areas\\Admin\\Views\\Loaitours\\Create.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:10:19.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Index.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Loaitours\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Index.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Loaitours\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T12:59:35.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Loaitours\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Edit.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Loaitours\\Edit.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T12:59:22.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Details.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Loaitours\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Details.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Loaitours\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T12:58:58.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DO_AN_CUOI\\Views\\Loaitours\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DO_AN_CUOI\\DO_AN_CUOI\\Views\\Loaitours\\Delete.cshtml",
+              "RelativeToolTip": "DO_AN_CUOI\\Views\\Loaitours\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T12:58:42.749Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

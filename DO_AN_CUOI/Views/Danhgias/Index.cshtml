@@ -1,0 +1,65 @@
+﻿@model IEnumerable<DO_AN_CUOI.Models.Danhgia>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>
+                    Tên khách hàng
+                </p>
+            </th>
+            <th>
+                <p>Tên Tour</p>
+            </th>
+            <th>
+                <p>Nội dung đánh giá</p>
+            </th>
+            <th>
+                <p>
+                    Số sao
+                </p>
+            </th>
+            <th>
+                <p>Thời gian đánh giá</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MakhNavigation.Tenkh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MatourNavigation.Tentour)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Noidungdanhgia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sosao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Thoigiandanhgia)
+            </td>
+            
+            
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { makh = item.Makh, matour = item.Matour })
+                    @Html.ActionLink("Details", "Details", new { makh = item.Makh, matour = item.Matour })
+                    @Html.ActionLink("Delete", "Delete", new { makh = item.Makh, matour = item.Matour })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
